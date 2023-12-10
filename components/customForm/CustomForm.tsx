@@ -165,6 +165,7 @@ export const CustomForm = () => {
             variants={formAnimation}
             // className="mb-4 "
           >
+
             <label className="block text-sm font-medium text-gray-900">
               Ім&apos;я*
               <Controller
