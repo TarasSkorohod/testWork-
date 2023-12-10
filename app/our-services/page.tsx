@@ -324,7 +324,7 @@ export default function Services() {
 
           {/*<DoubleSidedCard title="title" list={listXpel} />*/}
           <Title tag="h4" cn="mb-10">
-              ЗВ'ЯЗАТИСЯ З НАМИ
+              ЗВ&apos;ЯЗАТИСЯ З НАМИ
           </Title>
           <CustomForm />
       </div>

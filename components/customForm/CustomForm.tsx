@@ -166,7 +166,7 @@ export const CustomForm = () => {
             // className="mb-4 "
           >
             <label className="block text-sm font-medium text-gray-900">
-              Ім'я*
+              Ім&apos;я*
               <Controller
                 name="firstName"
                 control={control}

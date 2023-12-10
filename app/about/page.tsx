@@ -34,7 +34,7 @@ export default function About() {
         beyond service to deliver a transformation, redefining your ride.
       </TextPage>
       <Title tag="h4" cn="mb-10">
-        ЗВ'ЯЗАТИСЯ З НАМИ
+        ЗВ&apos;ЯЗАТИСЯ З НАМИ
       </Title>
       <CustomForm />
     </main>
